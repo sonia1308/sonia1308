@@ -3,12 +3,6 @@
   <img src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/соня-гамидова-781b27267/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div id="profileviews" align="center">
   <img src="https://komarev.com/ghpvc/?username=ThomasYoung&style=flat-square&color=blue" alt=""/>
@@ -16,11 +10,11 @@
 
 <h2 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://i.pinimg.com/originals/72/09/9e/72099e3c457732d395205929c29ef784.gif" width="30px"/>
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="600" height="300"/>
 </div>
 
 ---
