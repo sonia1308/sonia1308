@@ -10,7 +10,7 @@
 
 <h2 align="center">
   hey there
-  <img src="https://i.pinimg.com/originals/72/09/9e/72099e3c457732d395205929c29ef784.gif" width="30px"/>
+  <img src="https://i.pinimg.com/originals/72/09/9e/72099e3c457732d395205929c29ef784.gif" width="100px"/>
 </h2>
 
 <div align="center">
@@ -19,15 +19,15 @@
 
 ---
 
-### :technologist: About Me :
+### 💻 About Me :
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
 - :telescope: I'm studying frontend and backend for building cool stuff.
 
-- :seedling: .
+- :seedling: Exploring magic called coding
 
 - :zap: In my free time, I play video games and sleepv :v .
 
-- :mailbox:How to reach me: 
+- :mailbox:How to reach me: from heart to heart
 
 ---
 
