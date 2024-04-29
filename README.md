@@ -20,6 +20,8 @@
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
 - :telescope: I'm studying frontend and backend for building cool stuff.
 
+- 📖 Understand Azərbaycan dili, Türkçe, Русский, English, Tiếng việt
+
 - :seedling: Exploring magic called coding
 
 - :zap: In my free time, I play video games and sleepv :v .
