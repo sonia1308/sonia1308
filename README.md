@@ -4,9 +4,6 @@
 </div>
 <div id="badges" align="center">
 </div>
-<div id="profileviews" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThomasYoung&style=flat-square&color=blue" alt=""/>
-</div>
 
 <h2 align="center">
   hey there
