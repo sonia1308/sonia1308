@@ -1,6 +1,6 @@
 @@ -1,3 +1,66 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/соня-гамидова-781b27267/)">
